@@ -21,7 +21,7 @@ public class ChechBox_Example {
 				//driver.get("https://demoqa.com/text-box");
 				driver.navigate().to("https://demoqa.com/text-box");
 				
-				driver.findElement(By.xpath("tree-node-home"))
+				driver.findElement(By.xpath("tree-node-home"));
 	}
 
 }
